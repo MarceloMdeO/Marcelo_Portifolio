@@ -1,2 +1,12 @@
-# Marcelo Miranda de Oliveira - Portifolio
+# Marcelo Miranda de Oliveira 
 
+
+## Resume
+
+## Work Experience
+
+## Projects
+
+## Education
+
+## Specialization
