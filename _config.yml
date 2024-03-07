@@ -1,6 +1,6 @@
 title: Marcelo Miranda de Oliveira
 #logo: link para imagem que será utilizada
-#description: texto de descrição abaixo da imagem, texto simples e direto
+description: texto de descrição abaixo da imagem, texto simples e direto
 google_analytics: true
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-time-machine
