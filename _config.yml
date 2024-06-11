@@ -1,6 +1,6 @@
 title: Marcelo Miranda de Oliveira
-#logo: link para imagem que será utilizada
-description: PhD Material Scientist | Data Scientist | Physicist
+#logo: assests/personal_foto.png
+description: PhD Material Engineering| Physicist | Data Scientist
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-architect
